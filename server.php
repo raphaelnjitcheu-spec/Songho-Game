@@ -1,6 +1,7 @@
 <?php
 header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
+header('Cache-Control: no-cache, must-revalidate');
 
 $roomsDir = 'rooms/';
 if (!is_dir($roomsDir)) {
