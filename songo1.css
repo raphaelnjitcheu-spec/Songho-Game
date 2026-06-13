@@ -16,7 +16,7 @@
 }
 
 body {
-    background-color: var(--bg--gold);
+    background-color: var(--bg-dark);
     background-image: url('rudo.jpg');
     color: #fff;
     font-family: 'Segoe UI', Roboto, sans-serif;
